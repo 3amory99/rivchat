@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "466052121428",
+    "firebase_url": "https://ravichat-7a88c.firebaseio.com",
+    "project_id": "ravichat-7a88c",
+    "storage_bucket": "ravichat-7a88c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466052121428:android:d9b40735736c7f8e047ec1",
+        "android_client_info": {
+          "package_name": "com.android.wc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466052121428-harktrjjjh8888fm4vl1m59hrghbrnug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbp7i1nMv4ixQRMgqUI-jVDvx8iuF8oww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466052121428-harktrjjjh8888fm4vl1m59hrghbrnug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
